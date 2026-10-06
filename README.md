@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=2nakin&color=5C5C5C&style=flat-square&label=⠀⠀younglings⠀⠀">
 
 <p align="center">
-<img src="https://file.garden/ZrPqBUEI4Dz27rRP/github.duel" width="200">
+<img src="https://file.garden/ZrPqBUEI4Dz27rRP/github.duel" width="220">
 </p>
   
 <p align="center">
